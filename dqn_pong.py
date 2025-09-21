@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import gymnasium as gym
 from lib import dqn_model
 from lib import wrappers

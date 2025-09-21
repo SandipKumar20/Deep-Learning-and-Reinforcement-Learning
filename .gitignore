@@ -2,3 +2,5 @@
 video*
 data
 runs
+PongNoFrameskip*
+frozenlake*
