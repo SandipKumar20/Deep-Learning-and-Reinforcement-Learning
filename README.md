@@ -1,1 +1,1 @@
-# My experiments on deep learning and reinforcement learning. The repository has Python code on rl algorithms like DQN, Tabular Q learning, Cross Entropy Method, Value Iteration etc. Planning to add more RL algorithms.
+### My experiments on deep learning and reinforcement learning. The repository has Python code on rl algorithms like DQN, Tabular Q learning, Cross Entropy Method, Value Iteration, Reinforce, Sarsa, TD algorithms etc. Planning to add more RL algorithms. One can see several different rl algorithms in the RL_1.ipynb, RL_2.ipynb, RL_3.ipynb files 
